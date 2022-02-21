@@ -1,3 +1,2 @@
 # alx-pre_course
-# alx-pre_course
-i love alx
+I love ALX School,it's so cool!
